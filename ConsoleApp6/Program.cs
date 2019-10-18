@@ -15,6 +15,9 @@ namespace ConsoleApp6
             Console.WriteLine("СТРОКА ВЛАДОСА");
             Console.WriteLine("СТРОКА САНИ");
             Console.ReadKey();
+
+
+
         }
     }
 }
