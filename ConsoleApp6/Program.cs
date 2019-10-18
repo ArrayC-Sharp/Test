@@ -11,6 +11,9 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("Hello");
+
+
+            Console.WriteLine("СТРОКА САНИ");
             Console.ReadKey();
         }
     }
